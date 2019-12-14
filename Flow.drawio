@@ -1,0 +1,97 @@
+<mxfile host="www.draw.io" modified="2019-12-14T07:49:29.832Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="cYs7oW0WO1IPx7v9gyuq" version="12.4.1" type="github" pages="1">
+  <diagram id="BqAVmwKF6uV-oxVx1uoW" name="Page-1">
+    <mxGraphModel dx="1883" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HeeqB73VU8zr_-UHY4Gs-1" target="HeeqB73VU8zr_-UHY4Gs-17">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-1" value="USER" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-17" value="USER" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="410" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Registered Timing Flow&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="60" width="270" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HeeqB73VU8zr_-UHY4Gs-4" target="HeeqB73VU8zr_-UHY4Gs-19">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-4" value="BOT" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="140" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-19" value="BOT" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="410" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-5" value="うどんマップへの登録ありがとうございます！&lt;br&gt;利用するには位置情報を送ってね！" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="270" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="515" y="300" as="sourcePoint"/>
+            <mxPoint x="145" y="300" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-10" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Main Flow&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="490" width="120" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HeeqB73VU8zr_-UHY4Gs-11" target="HeeqB73VU8zr_-UHY4Gs-13">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="540" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="910" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HeeqB73VU8zr_-UHY4Gs-12" target="HeeqB73VU8zr_-UHY4Gs-15">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-12" value="BOT" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="540" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-15" value="BOT" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="910" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-22" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="145" y="670" as="sourcePoint"/>
+            <mxPoint x="520" y="670" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-24" value="位置情報を送る" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="251" y="632" width="100" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-25" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="515" y="730" as="sourcePoint"/>
+            <mxPoint x="145" y="730" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-27" value="「どんな感想？」と送る" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="690" width="150" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-29" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="780" as="sourcePoint"/>
+            <mxPoint x="510" y="780" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-30" value="感想を送る" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="291" y="759" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-31" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="820" as="sourcePoint"/>
+            <mxPoint x="150" y="820" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeeqB73VU8zr_-UHY4Gs-32" value="「ありがとう！また送ってね！！！」とおくる" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="800" width="270" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
